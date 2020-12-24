@@ -2148,7 +2148,8 @@ fieldset[disabled] .w-select {
 
 .logo {
     margin-top: 0;
-    padding: 6px
+    padding: 6px;
+    max-width: 50%;
 }
 
 .navlink {

@@ -121,7 +121,7 @@ sub {
 
 img {
     border: 0;
-    max-width: 100%;
+    width: 100%;
     vertical-align: middle;
     display: inline-block
 }
@@ -2682,7 +2682,7 @@ fieldset[disabled] .w-select {
 }
 
 .image {
-    min-height: 100%;
+    /*min-height: 100%;*/
     min-width: 100%
 }
 

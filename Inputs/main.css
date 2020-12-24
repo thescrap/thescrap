@@ -3928,9 +3928,9 @@ fieldset[disabled] .w-select {
     .sub-heading {
         padding-right: 0
     }
-    .logo {
+    /*.logo {
         max-width: none
-    }
+    }*/
     .menu-button {
         max-height: none;
         padding-top: 12px;

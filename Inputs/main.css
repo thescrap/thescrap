@@ -2494,6 +2494,7 @@ fieldset[disabled] .w-select {
 }
 
 .footer-just-reach-out {
+    position: relative;
     padding: 184px 270px
 }
 
@@ -4124,6 +4125,14 @@ fieldset[disabled] .w-select {
     -ms-grid-row-span: 1;
     grid-row-end: span 1
 }
+/* position: fixed; */
+#refren{
+    position: absolute;
+    bottom: 10px;
+    right: 50px;
+    width: 120px;
+    height: auto;
+} 
 
 @media screen and (max-width:767px) {
     #w-node-22e0cee9c545-2eb60854,
@@ -4161,4 +4170,17 @@ fieldset[disabled] .w-select {
         -ms-grid-row-span: 2;
         grid-row-end: 4
     }
+    #refren{
+        width: 94px;
+        position: absolute;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        align-items: center;
+    }
 }
+/* margin right: 10px ; */
+
+
